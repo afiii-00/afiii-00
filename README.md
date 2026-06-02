@@ -1,8 +1,8 @@
 # 🛸 ANTIGRAVITY PROPULSION SYSTEM
 
 <div align="center">
-  <!-- Minimalist Sci-Fi Banner Animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1b256N3BwYm16M3Y1b256N3BwYm16M3Y1b256N3Bw&ep_v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Space Floating Banner" />
+  <!-- Minimalist Sci-Fi Banner Animation (Direct Link Verified) -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1b256N3BwYm16M3Y1b256N3BwYm16M3Y1b256N3Bw&ep_v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Space Floating Banner" />
 
   <h1>🌌 DEFYING GRAVITY TO CODE</h1>
   <p><i>"Flipping the logic upside down to view problems from a different perspective."</i></p>
@@ -80,8 +80,10 @@ Kapsul komunikasi selalu terbuka untuk kolaborasi proyek, diskusi logika, atau s
 - **Instagram:** [@adrian_hanafii](https://instagram.com/adrian_hanafii)
 - **Direct Sub-space Signal:** [adrianhanafi00@gmail.com](mailto:adrianhanafi00@gmail.com)
 
+---
+
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Ganti ADRIAN_USERNAME dengan username asli GitHub lu -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ADRIAN_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIAN_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
